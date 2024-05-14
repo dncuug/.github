@@ -1,6 +1,6 @@
 # Ukrainian .NET Developer Community 🇺🇦
 
-Welcome to the Ukrainian .NET community!
+Welcome to the Ukrainian .NET Developer Community!
 
 Unfortunately, because of Russian invasion in Ukraine, many of our community members are busy with keeping their families and loved ones safe. 
 
